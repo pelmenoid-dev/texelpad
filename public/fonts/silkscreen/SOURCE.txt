@@ -1,0 +1,5 @@
+Silkscreen by Jason Kottke
+Source: https://github.com/googlefonts/silkscreen
+Asset: fonts/webfonts/Silkscreen-Regular.woff2
+Source blob SHA: 4dab3c5592d832cbdcba95c52220acc1290da843
+License: SIL Open Font License 1.1 (see OFL.txt)

@@ -1,0 +1,32 @@
+# Dependencies and generated files
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+*.log
+
+# Local checks, browser profiles, and design reviews
+.cache/
+.impeccable/
+playwright-report/
+test-results/
+
+# User projects and recovery snapshots
+/projects/
+*.pxwork
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
